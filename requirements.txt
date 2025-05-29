@@ -1,0 +1,12 @@
+# Core dependencies
+requests>=2.31.0     # For making HTTP requests
+dnspython>=2.4.0     # For DNS resolution
+python-dotenv>=1.0.0 # For environment variable management
+
+# Testing dependencies
+pytest>=8.0.0        # Testing framework
+pytest-cov>=4.1.0    # Test coverage
+
+# Type checking
+mypy>=1.7.0         # Static type checking
+types-requests>=2.31.0  # Type stubs for requests
